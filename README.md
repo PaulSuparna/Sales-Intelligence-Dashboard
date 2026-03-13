@@ -119,3 +119,9 @@ The dashboard provides a consolidated analytical view that supports faster and m
 <h2><b>6. Screenshots</b></h2>
 
 ![Dashboard Preview](./Sales_Performance_Overview.png)
+
+![alt1](./Product%20and%20Profitability%20Performance.png)
+
+![alt2](./Pricing%20and%20Customer%20Insights.png)
+
+

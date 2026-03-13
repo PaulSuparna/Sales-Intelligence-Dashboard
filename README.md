@@ -117,4 +117,4 @@ Recognizing top revenue-generating customers helps companies prioritize key acco
 The dashboard provides a consolidated analytical view that supports faster and more informed business decisions.
 
 <h2><b>6. Screenshots</b></h2>
-![Dashboard Preview] (https://github.com/PaulSuparna/Sales-Intelligence-Dashboard/blob/d2a0a0746231f59b1c0f2b308f0b5c49bb5bd097/Sales_Performance_Overview.png)
+![Dashboard Preview] (Sales_Performance_Overview.png)

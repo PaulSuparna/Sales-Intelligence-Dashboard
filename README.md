@@ -1,4 +1,4 @@
-| Sales Intelligence Dashboard |
+<h1>| Sales Intelligence Dashboard |</h1>
 
 **1. Project Title**
 

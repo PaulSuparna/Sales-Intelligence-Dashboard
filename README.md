@@ -103,6 +103,7 @@ This visual explores how discount levels influence profit performance, helping e
 Identifies the customers contributing the highest revenue, helping businesses recognize their most valuable clients.
 
 <p><h3>Business Impact & Insights</h3></p>
+
 **Revenue Optimization**
 Businesses can identify high-performing products and categories that drive the majority of sales.
 

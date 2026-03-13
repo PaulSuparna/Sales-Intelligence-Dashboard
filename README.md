@@ -53,19 +53,19 @@ Decision makers often struggle to identify:
 
 <p>Without a clear analytical view, extracting these insights from raw spreadsheets becomes time-consuming and inefficient.</p>
 
-<u><i>Goal of the Dashboard</i></u>
+<p><u><i>Goal of the Dashboard</i></u></p>
 The goal of this dashboard is to create an **interactive Business Intelligence tool** that transforms raw sales data into clear visual insights.
     
 The dashboard enables users to:
 * Monitor overall business performance using key sales KPIs
-* * Identify high-performing products and categories
+* Identify high-performing products and categories
 * Analyze profitability across product segments
 * Understand the relationship between discount levels and profit
 * Discover the customers contributing the highest revenue.
 
 This dashboard demonstrates how **data analysts convert transactional data into                                               decision-support insights using Power BI**.
   
-<u><i>Walkthrough of Key Visuals</i></u>
+<p><u><i>Walkthrough of Key Visuals</i></u></p>
 <b>Key Performance Indicators</b>
 The dashboard highlights important business metrics to provide a quick performance overview.
 <b>KPIs include:</b>
@@ -100,7 +100,7 @@ This visual explores how discount levels influence profit performance, helping e
 **Top Customers by Revenue (Bar Chart)**
 Identifies the customers contributing the highest revenue, helping businesses recognize their most valuable clients.
 
-<u><i>Business Impact & Insights</i></u>
+<p><u><i>Business Impact & Insights</i></u></p>
 **Revenue Optimization**
 Businesses can identify high-performing products and categories that drive the majority of sales.
 

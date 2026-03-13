@@ -41,7 +41,7 @@ The dataset contains simulated sales transaction records including:
 * Order information
 
 <h2><b>5.	Features and Highlights</b></h2>
-<u><i>Business Problem</i></u>
+<p><h3>Business Problem</h3></p>
 <p>Retail businesses generate large volumes of transactional sales data, but raw data alone makes it difficult to quickly answer important business questions.</p>
 
 Decision makers often struggle to identify:

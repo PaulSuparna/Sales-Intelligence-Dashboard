@@ -54,7 +54,7 @@ Decision makers often struggle to identify:
 <p>Without a clear analytical view, extracting these insights from raw spreadsheets becomes time-consuming and inefficient.</p>
 
 <p><h3>Goal of the Dashboard</h3></p>
-The goal of this dashboard is to create an **interactive Business Intelligence tool** that transforms raw sales data into clear visual insights.
+The goal of this dashboard is to create an interactive Business Intelligence tool that transforms raw sales data into clear visual insights.
     
 The dashboard enables users to:
 * Monitor overall business performance using key sales KPIs
@@ -69,10 +69,12 @@ This dashboard demonstrates how **data analysts convert transactional data into 
 <b>Key Performance Indicators</b>
 The dashboard highlights important business metrics to provide a quick performance overview.
 <b>KPIs include:</b>
-* Total Sales Revenue
-* Total Profit
-* Total Orders
-* Profit Margin
+<ul>
+<li>Total Sales Revenue</li>
+<li>Total Profit</li>
+<li>Total Orders</li>
+<li>Profit Margin</li>
+</ul>
 These indicators provide an immediate snapshot of overall business performance.
 
 **Monthly Sales Trend (Line Chart)**

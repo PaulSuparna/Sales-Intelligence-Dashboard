@@ -1,10 +1,10 @@
 <h1>| Sales Intelligence Dashboard |</h1>
 
-**1. Project Title**
+<h3><b>1. Project Title**</b></h3>
 
 Sales Intelligence Dashboard – A Power BI project analyzing sales performance, product profitability, pricing impact, and customer contribution.
 
-**2. Purpose**
+<h3><b>2. Purpose</b></h3>
 
 This project demonstrates how **Power BI can be used to transform raw sales data into actionable business insights**.
 
@@ -17,7 +17,7 @@ The dashboard helps analyze:
 
 The goal of this project is to simulate how **data analysts build business intelligence dashboards for decision making**.
 
-**3. Tech Stack**
+<h3><b>3. Tech Stack</b></h3>
 
 * Power BI – Dashboard development and data visualization.
 * Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
@@ -26,7 +26,7 @@ The goal of this project is to simulate how **data analysts build business intel
 * Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 * File Format – .pbix for development and .png for dashboard previews.
 
-**4. Data Source**
+<h3><b>4. Data Source</b></h3>
 
 The dataset used in this project is a **synthetic sales dataset generated for analytical and demonstration purposes**.
 
@@ -38,7 +38,7 @@ The dataset contains simulated sales transaction records including:
 * Discount levels
 * Order information
 
-**5.	Features and Highlights**
+<h3><b>5.	Features and Highlights</b></h3>
 •	Business Problem
  Retail businesses generate large volumes of transactional sales data, but raw data alone makes it difficult to quickly answer important business questions.
 
@@ -115,5 +115,5 @@ Recognizing top revenue-generating customers helps companies prioritize key acco
 **Strategic Decision Support**
 The dashboard provides a consolidated analytical view that supports faster and more informed business decisions.
 
-**6. Screenshots**
+<h3><b>6. Screenshots</b></h3>
 

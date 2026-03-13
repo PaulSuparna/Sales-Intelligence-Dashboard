@@ -1,6 +1,6 @@
 <h1>| Sales Intelligence Dashboard |</h1>
 
-<h3><b>1. Project Title**</b></h3>
+<h2><b>1. Project Title</b></h2>
 
 Sales Intelligence Dashboard – A Power BI project analyzing sales performance, product profitability, pricing impact, and customer contribution.
 
